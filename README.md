@@ -21,7 +21,7 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 
 ## Voice Dropの導入方法
 
-[Releasesページ](https://github.com/Fuji07-2525/voicesync-drop/releases) にある、Latest が付いたバージョンの所から、`voicesync_drop.aux2
+[Releasesページ](https://github.com/Fuji07-2525/voicesync-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
 ` ファイルをクリックしダウンロードして、aviutl2 → Plugin 配下に設置してください。これで導入完了です
 
 ~~Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です~~
@@ -33,24 +33,32 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ※もし表示されていない場合、導入方法に間違いがある(置いたフォルダー場所が違うなど) 可能性が高いので設定を見直してみてください
 
-<img width="815" height="566" alt="image" src="https://github.com/user-attachments/assets/6356a726-3e1c-4b9a-8946-47d318f1e433" />
+<img width="817" height="566" alt="image" src="https://github.com/user-attachments/assets/a84acbba-8c0b-4935-aeeb-7392bf6b336b" />
+
 
 このままだと使いにくいと思うので、プラグインを右クリックし、「ウィンドウ配置」→「ウィンドウ分離」を選択しておくと見やすい形で表示してくれます。
 
-<img width="591" height="530" alt="image" src="https://github.com/user-attachments/assets/921861f9-0a73-4c2b-b23e-8bf47547e70b" />
+<img width="565" height="299" alt="image" src="https://github.com/user-attachments/assets/8933fee9-56d2-45ad-a1b4-fbe4f1ffb119" />
+
 
 ## ルール設定
 
 まずはルールを設定してみましょう。
 右上の「ルール設定」のボタンをクリックしてください
-<img width="449" height="485" alt="スクリーンショット 2026-04-29 141608" src="https://github.com/user-attachments/assets/78a43537-b543-4b1f-9019-50c724c95dd5" />
+
+<img width="390" height="489" alt="スクリーンショット 2026-04-29 160500" src="https://github.com/user-attachments/assets/9266cf70-f036-47e9-8950-a04f50456625" />
+
+
 
 このような画面が表示されるので右上の「ルール追加」のボタンをクリックしてください
-<img width="442" height="492" alt="スクリーンショット 2026-04-29 141728" src="https://github.com/user-attachments/assets/933b0405-b3c0-4d78-98dc-06be23c4dfda" />
+
+<img width="394" height="488" alt="スクリーンショット 2026-04-29 160625" src="https://github.com/user-attachments/assets/40da2632-549c-4ad4-8842-affd3da33580" />
+
 
 するとこのような画面が表示されます。
 
-<img width="448" height="495" alt="image" src="https://github.com/user-attachments/assets/d092e944-93dd-4913-b737-a24cd9d8f8c7" />
+<img width="392" height="483" alt="image" src="https://github.com/user-attachments/assets/08c04b8e-3115-4c46-96d1-108569b4082f" />
+
 
 ## 各項目の説明
 項目に沿って自由に自分に合ったルールを追加してください。
@@ -76,14 +84,16 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ルール追加が完了するとこのようにルール設定画面に表示されます
 
-<img width="446" height="489" alt="image" src="https://github.com/user-attachments/assets/507dc943-dd5b-4258-81aa-55bc5354da3a" />
+<img width="394" height="486" alt="image" src="https://github.com/user-attachments/assets/8fc36336-d0e4-468b-9fd9-8c02b35bd3be" />
+
 
 
 ## ルール追加のエクスポート・インポート・その他設定
 
 こちらのルール設定画面上では「エクスポート」と「インポート」があります。
 
-<img width="447" height="253" alt="image" src="https://github.com/user-attachments/assets/399486b2-4a1d-4565-b486-5548a7365271" />
+<img width="387" height="247" alt="image" src="https://github.com/user-attachments/assets/6dfa7f6b-28cc-4aad-8bb8-aaffcbaa46a5" />
+
 
 
 これは今回設定したルールを「別のPCでも同様に使いたい」となった時に設定したルールをエクスポートすることが可能です。
@@ -109,7 +119,8 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 例：画像では、 `E:\Aviutl2\voice4` の中に音声合成ソフトから生成される音声とテキストファイルを貯めることになっています
 
-<img width="447" height="497" alt="スクリーンショット 2026-04-29 143918__1" src="https://github.com/user-attachments/assets/16c9c3bb-598d-465a-bfde-998a9e939f95" />
+<img width="391" height="482" alt="スクリーンショット 2026-04-29 160911" src="https://github.com/user-attachments/assets/438fa933-d787-4e75-9d40-2ce29e1f9ded" />
+
 
 
 設定出来たら「起動する」ボタンを押すと、フォルダー配下に追加されたファイルは設定したルールをもとにAviutl2のタイムライン上にドロップされるようになります。
