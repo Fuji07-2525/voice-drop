@@ -29,7 +29,9 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 
 ## VoiceSync Dropの説明
 
-本プラグインを立ち上げると最初にこのような画面が表示されます。
+Aviutl2の左上にある「表示」から「VoiceSync Drop」を選択してください。すると、最初にこのような画面が表示されます。
+
+※もし表示されていない場合、導入方法に間違いがある(置いたフォルダー場所が違うなど) 可能性が高いので設定を見直してみてください
 
 <img width="815" height="566" alt="image" src="https://github.com/user-attachments/assets/6356a726-3e1c-4b9a-8946-47d318f1e433" />
 
