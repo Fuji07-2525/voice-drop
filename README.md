@@ -19,6 +19,13 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 <img width="698" height="584" alt="スクリーンショット 2026-04-29 140611" src="https://github.com/user-attachments/assets/6c596c3f-3894-40c4-b58a-c1e48733fc36" />
 
 
+## VoiceSync Dropの導入方法
+
+VoiceSync Dropの aux2 ファイルをダウンロードし、aviutl2 → Plugin 配下に設置してください。これで導入完了です
+
+Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です
+
+
 ## VoiceSync Dropの説明
 
 本プラグインを立ち上げると最初にこのような画面が表示されます。
