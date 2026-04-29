@@ -16,7 +16,8 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 
 ※ここがONになってないと正常に動作しません。必ずONにしてください。
 
-<img width="698" height="584" alt="スクリーンショット 2026-04-29 140611" src="https://github.com/user-attachments/assets/6c596c3f-3894-40c4-b58a-c1e48733fc36" />
+<img width="698" height="584" alt="スクリーンショット 2026-04-29 140611" src="https://github.com/user-attachments/assets/e9155b64-ab55-430f-a73d-0ace02652829" />
+
 
 
 ## Voice Dropの導入方法
@@ -92,9 +93,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 こちらのルール設定画面上では「エクスポート」と「インポート」があります。
 
-<img width="387" height="247" alt="image" src="https://github.com/user-attachments/assets/6dfa7f6b-28cc-4aad-8bb8-aaffcbaa46a5" />
-
-
+<img width="387" height="253" alt="image" src="https://github.com/user-attachments/assets/89938c0d-f86b-4be3-ad94-7e0495421e0b" />
 
 これは今回設定したルールを「別のPCでも同様に使いたい」となった時に設定したルールをエクスポートすることが可能です。
 
