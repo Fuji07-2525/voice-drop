@@ -35,7 +35,7 @@ Aviutl2の左上にある「表示」から「VoiceSync Drop」を選択して�
 
 <img width="815" height="566" alt="image" src="https://github.com/user-attachments/assets/6356a726-3e1c-4b9a-8946-47d318f1e433" />
 
-このままだと使いにくいと思うので、プラグインを右クリックし、「ウィンドウ配置」→「ウィンドウズ分離」を選択しておくと見やすい形で表示してくれます。
+このままだと使いにくいと思うので、プラグインを右クリックし、「ウィンドウ配置」→「ウィンドウ分離」を選択しておくと見やすい形で表示してくれます。
 
 <img width="591" height="530" alt="image" src="https://github.com/user-attachments/assets/921861f9-0a73-4c2b-b23e-8bf47547e70b" />
 
