@@ -24,8 +24,8 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 [Releasesページ](https://github.com/Fuji07-2525/voicesync-drop/releases) にある、Latest が付いたバージョンの所から、`voicesync_drop.aux2
 ` ファイルをクリックしダウンロードして、aviutl2 → Plugin 配下に設置してください。これで導入完了です
 
-Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です
-
+~~Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です~~
+(Aviutl2カタログは現在未対応です)
 
 ## VoiceSync Dropの説明
 
