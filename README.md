@@ -1,4 +1,4 @@
-# VoiceSync Dropの使い方
+# Voice Dropの使い方
 
 音声合成ソフトから音声ファイルとテキストファイルを出力した際、Aviutl2のタイムライン上に自動でドロップするプラグインになります。
 
@@ -19,7 +19,7 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 <img width="698" height="584" alt="スクリーンショット 2026-04-29 140611" src="https://github.com/user-attachments/assets/6c596c3f-3894-40c4-b58a-c1e48733fc36" />
 
 
-## VoiceSync Dropの導入方法
+## Voice Dropの導入方法
 
 [Releasesページ](https://github.com/Fuji07-2525/voicesync-drop/releases) にある、Latest が付いたバージョンの所から、`voicesync_drop.aux2
 ` ファイルをクリックしダウンロードして、aviutl2 → Plugin 配下に設置してください。これで導入完了です
@@ -27,9 +27,9 @@ PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同
 ~~Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です~~
 (Aviutl2カタログは現在未対応です)
 
-## VoiceSync Dropの説明
+## Voice Dropの説明
 
-Aviutl2の左上にある「表示」から「VoiceSync Drop」を選択してください。すると、最初にこのような画面が表示されます。
+Aviutl2の左上にある「表示」から「Voice Drop」を選択してください。すると、最初にこのような画面が表示されます。
 
 ※もし表示されていない場合、導入方法に間違いがある(置いたフォルダー場所が違うなど) 可能性が高いので設定を見直してみてください
 
