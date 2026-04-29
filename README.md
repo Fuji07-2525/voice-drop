@@ -1,0 +1,2 @@
+# voicesync-drop
+Aviutl2上のタイムラインに自動で音声ファイルをドロップするAviutl2のプラグインになります
