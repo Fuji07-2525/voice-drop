@@ -106,6 +106,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 （既に設定が完了しているユーザーから設定ファイルを貰う。などしてもらってもよいかもです）
 
 ## ルール設定の編集・複製・削除・ON・OFF
+
 <img width="433" height="114" alt="image" src="https://github.com/user-attachments/assets/bbbe117a-db27-4328-836e-113af6a10927" />
 
 ルールを追加したらその後、設定したルールを「編集」「複製」「削除」が可能です。
