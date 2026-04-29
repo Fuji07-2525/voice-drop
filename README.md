@@ -93,7 +93,9 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 こちらのルール設定画面上では「エクスポート」と「インポート」があります。
 
+
 <img width="387" height="253" alt="image" src="https://github.com/user-attachments/assets/89938c0d-f86b-4be3-ad94-7e0495421e0b" />
+
 
 これは今回設定したルールを「別のPCでも同様に使いたい」となった時に設定したルールをエクスポートすることが可能です。
 
