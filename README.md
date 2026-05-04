@@ -159,26 +159,13 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ## VOICEROID2を利用する場合
 
-VOICEROID2を利用している場合、VOICEROID2ではキャラクター名をファイルに含めることはできない問題があります。
+VOICEROID2を利用している場合、VOICEROID2ではキャラクター名をファイル名に含めることが出来ない問題があります。
 
-本プラグインは、VOICEROID2に対して読み込めるように特有の処理を行っています。しかし、少し特有なやり方があるのでやり方を書いておきます。
+本プラグインでは、メイン機能であるファイル名に一致することを目的として、VOICEROID2特有の処理は含めないものとします。
 
-まずエディター上では、「紲星あかり＞こんにちは」というように、「キャラクター名＞本文」のやり方で音声を再生・出力してください
+もしVOICEROID2を利用しており、本プラグインを使って便利化させたい場合、VOICEROID2に必ずキャラクター名を含めたファイル名で保存できる、「[VoiceroidUtil](https://www.nicovideo.jp/watch/sm28526328)」を利用するのをお勧めします。
 
-<img width="997" height="374" alt="image" src="https://github.com/user-attachments/assets/09505438-82b1-4f8e-ac0e-5b31fdce4a10" />
-
-出力する際は、ファイル名を、「VOICEROID2.wav」にしてください。VOICEROID2というファイル名がVOICEROID2から出力されたファイルであることをプラグイン側で理解させるためです。
-
-<img width="942" height="141" alt="image" src="https://github.com/user-attachments/assets/44ac4af7-7384-41ce-9d8a-613a287e326f" />
-
-するとプラグイン側で、テキストファイルを参照し、ファイル名を「キャラクター名_本文の10文字まで」の名前にリネームします。
-
-リネーム後、ルールが登録されていれば。ルールに沿ったドロップを行ってくれます
-
-例でこんな感じでルールを適用してもらえればドロップ可能です。
-
-<img width="364" height="478" alt="image" src="https://github.com/user-attachments/assets/3c23b5c3-1d7c-44e6-bca8-d5d11deb36de" />
-
+VoiceroidUtil経由でファイル名に必ずキャラクター名を含めるようにし、voice-drop側でルールを設定した頂ければ利用可能になります。
 
 
 ## 動作が安定しないAviutl2バージョン
