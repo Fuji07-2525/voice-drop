@@ -124,9 +124,11 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 <img width="391" height="482" alt="スクリーンショット 2026-04-29 160911" src="https://github.com/user-attachments/assets/438fa933-d787-4e75-9d40-2ce29e1f9ded" />
 
-
-
 設定出来たら「起動する」ボタンを押すと、フォルダー配下に追加されたファイルは設定したルールをもとにAviutl2のタイムライン上にドロップされるようになります。
+
+下記の画像のように、音声ファイルとPSDtoolKitが用意している「セリフ準備@PSDToolKit」の2つが表示されていたら完了です。
+
+<img width="863" height="154" alt="image" src="https://github.com/user-attachments/assets/c168639c-a122-42b2-be3a-83126c233ec7" />
 
 ## 使う際の注意点
 
@@ -169,6 +171,17 @@ VOICEROID2を利用している場合、VOICEROID2ではキャラクター名を
 
 そのようにしていただけると後は、voice-drop側でルールを設定して頂ければ利用可能になります。
 
+---
+
+**４. テキストオブジェクトとしてタイムラインにドロップされている場合、PSDToolKitの設定が間違っている可能性が高いので確認してください**
+
+もしドロップした際に、「セリフ準備@PSDToolKit」の表示ではなく、文字化けしたテキストオブジェクトなどの、テキストオブジェクトとしてドロップされている場合、PSDToolKitの設定が間違っている可能性が高いです。(下記の画像のような状態になる)
+
+<img width="537" height="148" alt="image" src="https://github.com/user-attachments/assets/f1a54d54-edae-44d7-81bf-6cd51ada18af" />
+
+その場合、 [PSDToolKit側の設定](https://github.com/Fuji07-2525/voice-drop/edit/main/README.md#psdtoolkit%E5%81%B4%E3%81%AE%E8%A8%AD%E5%AE%9A) 設定が間違っている可能性が高いのでもう一度確認してください。
+
+設定したら一度Aviutl2を再起動したら設定が反映されます。
 
 ## 動作が安定しないAviutl2バージョン
 
