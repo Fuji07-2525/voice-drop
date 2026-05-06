@@ -170,7 +170,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 その場合、 [PSDToolKit側の設定](https://github.com/Fuji07-2525/voice-drop/edit/main/README.md#psdtoolkit%E5%81%B4%E3%81%AE%E8%A8%AD%E5%AE%9A) 設定が間違っている可能性が高いのでもう一度確認してください。
 
-設定したら一度Aviutl2を再起動したら設定が反映されます。
+設定したら一度Aviutl2を再起動していただけると、設定が反映されます。
 
 
 ## VOICEROID2を利用する場合
