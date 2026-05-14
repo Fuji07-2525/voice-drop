@@ -17,15 +17,6 @@
 ~~Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です~~
 (Aviutl2カタログは現在未対応です)
 
-## PSDToolKit側の設定
-
-Aviutl2の左上にある「設定」→「プラグイン設定」→「PSDToolKit設定」を開いてください。
-PSDToolKit側の設定で「同名の*.wavファイルと*.txtファイルを同時にドロップしたとき」の項目のチェックをONにしてください。
-
-※ここがONになってないと正常に動作しません。必ずONにしてください。
-
-<img width="698" height="584" alt="スクリーンショット 2026-04-29 140611" src="https://github.com/user-attachments/assets/e9155b64-ab55-430f-a73d-0ace02652829" />
-
 ## Voice Dropの説明
 
 Aviutl2の左上にある「表示」から「Voice Drop」を選択してください。すると、最初にこのような画面が表示されます。
