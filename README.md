@@ -9,11 +9,6 @@
 本プラグインは、GcmzDrops, PSDToolKitが入っていること前提で話が進みます。
 まだ導入を行っていない方がいましたら、先にそちらの導入から進めてください
 
-## Aviutl2カタログでこのページを見てる方向け
-
-これ以降のテキストに導入方法や使い方に関して書いてありますが、画像が表示されないので https://github.com/Fuji07-2525/voice-drop こちらのリンクを開いて見ていただけると画像付きでより詳細に理解できると思います。
-
-
 ## Voice Dropの導入方法
 
 [Releasesページ](https://github.com/Fuji07-2525/voice-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
@@ -27,12 +22,12 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ※もし表示されていない場合、導入方法に間違いがある(置いたフォルダー場所が違うなど) 可能性が高いので設定を見直してみてください
 
-<img width="817" height="566" alt="image" src="https://github.com/user-attachments/assets/a84acbba-8c0b-4935-aeeb-7392bf6b336b" />
+![プラグインの全体紹介](https://github.com/user-attachments/assets/a84acbba-8c0b-4935-aeeb-7392bf6b336b)
 
 
 このままだと使いにくいと思うので、プラグインを右クリックし、「ウィンドウ配置」→「ウィンドウ分離」を選択しておくと見やすい形で表示してくれます。
 
-<img width="565" height="299" alt="image" src="https://github.com/user-attachments/assets/8933fee9-56d2-45ad-a1b4-fbe4f1ffb119" />
+![ウィンドウ分離](https://github.com/user-attachments/assets/8933fee9-56d2-45ad-a1b4-fbe4f1ffb119)
 
 
 ## ルール設定
@@ -40,18 +35,16 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 まずはルールを設定してみましょう。
 右上の「ルール設定」のボタンをクリックしてください
 
-<img width="390" height="489" alt="スクリーンショット 2026-04-29 160500" src="https://github.com/user-attachments/assets/9266cf70-f036-47e9-8950-a04f50456625" />
-
+![ルール設定](https://github.com/user-attachments/assets/9266cf70-f036-47e9-8950-a04f50456625)
 
 
 このような画面が表示されるので右上の「ルール追加」のボタンをクリックしてください
 
-<img width="394" height="488" alt="スクリーンショット 2026-04-29 160625" src="https://github.com/user-attachments/assets/40da2632-549c-4ad4-8842-affd3da33580" />
-
+![ルール追加](https://github.com/user-attachments/assets/40da2632-549c-4ad4-8842-affd3da33580)
 
 するとこのような画面が表示されます。
 
-<img width="434" height="654" alt="image" src="https://github.com/user-attachments/assets/719d44ef-9f91-4ccf-a7bb-d1478fe35330" />
+![ルール設定画面](https://github.com/user-attachments/assets/719d44ef-9f91-4ccf-a7bb-d1478fe35330)
 
 
 
@@ -89,18 +82,18 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 例：キャラクターIDを「唯世かのん」と設定します
 
-<img width="436" height="649" alt="スクリーンショット 2026-06-23 205527" src="https://github.com/user-attachments/assets/69ce01bf-ec65-445e-a718-c37fd4a833b1" />
+![キャラクターID](https://github.com/user-attachments/assets/69ce01bf-ec65-445e-a718-c37fd4a833b1)
 
 このルールによってドロップされた "セリフ準備" と "パーツ上書き" の キャラクターIDには最初から「唯世かのん」が入るようになる。といった機能です
 
-<img width="786" height="323" alt="image" src="https://github.com/user-attachments/assets/d1bae510-6583-4090-b791-ff50a6a8aa96" />
-<img width="788" height="271" alt="image" src="https://github.com/user-attachments/assets/cc939f78-eb13-488d-8121-072e6deb5380" />
+![セリフ準備](https://github.com/user-attachments/assets/d1bae510-6583-4090-b791-ff50a6a8aa96)
+![パーツ上書き](https://github.com/user-attachments/assets/cc939f78-eb13-488d-8121-072e6deb5380)
 
 ---
 
 **ドロップ先のレイヤー**：ルールに該当するファイルが検出された際にAviutl2のタイムライン上のどのレイヤーにドロップさせるかを決めることが出来ます。
 
-<img width="440" height="648" alt="スクリーンショット 2026-06-23 211017" src="https://github.com/user-attachments/assets/64a61363-481f-48a7-8d97-c7f8b3868a42" />
+![ドロップ先レイヤー](https://github.com/user-attachments/assets/64a61363-481f-48a7-8d97-c7f8b3868a42)
 
 2を設定すれば「Layer2」に、3を設定すれば「Layer3」にドロップされるようになります。
 
@@ -110,14 +103,14 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 例：Layer2にドロップと指定した場合、音声ファイルがLayer2に置かれ、セリフ準備はLayer3, パーツ上書きはLayer4に設置されます
 
-<img width="401" height="171" alt="image" src="https://github.com/user-attachments/assets/ff70d1d5-df9c-487c-b962-1686fa3d655f" />
+![Aviutl2ドロップ例](https://github.com/user-attachments/assets/ff70d1d5-df9c-487c-b962-1686fa3d655f)
 
 
 ---
 
 ### **パディング**：音声ファイルを入れた後、後ろに確保する余白の長さを設定することが出来ます
 
-<img width="435" height="650" alt="スクリーンショット 2026-06-23 211237" src="https://github.com/user-attachments/assets/62ea358c-1e9d-44bb-b08a-070f7b73fec1" />
+![パディング](https://github.com/user-attachments/assets/62ea358c-1e9d-44bb-b08a-070f7b73fec1)
 
 ドロップ後の後ろに確保する余白の長さを設定することが可能です。
 
@@ -133,14 +126,14 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 デフォルトはONとしています。OFFにすることも可能です。OFFにするとドロップされることはありません。
 
-<img width="443" height="652" alt="スクリーンショット 2026-06-23 211743" src="https://github.com/user-attachments/assets/bcf10f7f-c445-4112-9e6c-a3f2bd24b909" />
+![セリフ準備とパーツ上書き](https://github.com/user-attachments/assets/bcf10f7f-c445-4112-9e6c-a3f2bd24b909)
 
 
 ### 最後に「保存」ボタンを押すことで設定することが可能です
 
 ルール追加が完了するとこのようにルール設定画面に表示されます
 
-<img width="394" height="486" alt="image" src="https://github.com/user-attachments/assets/8fc36336-d0e4-468b-9fd9-8c02b35bd3be" />
+![保存ボタン](https://github.com/user-attachments/assets/8fc36336-d0e4-468b-9fd9-8c02b35bd3be)
 
 ## 実際に動かす
 
@@ -148,13 +141,13 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 例：画像では、 `E:\Aviutl2\voice4` の中に音声合成ソフトから生成される音声とテキストファイルを貯めることになっています
 
-<img width="391" height="482" alt="スクリーンショット 2026-04-29 160911" src="https://github.com/user-attachments/assets/438fa933-d787-4e75-9d40-2ce29e1f9ded" />
+![監視対象を選択](https://github.com/user-attachments/assets/438fa933-d787-4e75-9d40-2ce29e1f9ded)
 
 設定出来たら「起動する」ボタンを押すと、フォルダー配下に追加されたファイルは設定したルールをもとにAviutl2のタイムライン上にドロップされるようになります。
 
 下記の画像のように、音声ファイルとPSDtoolKitが用意している「セリフ準備@PSDToolKit」「パーツ上書き@PSDToolKit」の3つが表示されていたら完了です。
 
-<img width="1056" height="171" alt="image" src="https://github.com/user-attachments/assets/34ed82fb-43a4-4987-8f13-bd85c5551fc8" />
+![こうなったら成功](https://github.com/user-attachments/assets/34ed82fb-43a4-4987-8f13-bd85c5551fc8)
 
 
 # その他細かい便利機能
@@ -165,8 +158,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 こちらのルール設定画面上では「エクスポート」と「インポート」があります。
 
-
-<img width="387" height="253" alt="image" src="https://github.com/user-attachments/assets/89938c0d-f86b-4be3-ad94-7e0495421e0b" />
+![インポート・エクスポート](https://github.com/user-attachments/assets/89938c0d-f86b-4be3-ad94-7e0495421e0b)
 
 
 これは今回設定したルールを「別のPCでも同様に使いたい」となった時に設定したルールをエクスポートすることが可能です。
@@ -179,7 +171,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ## ルール設定の編集・複製・削除
 
-<img width="384" height="109" alt="image" src="https://github.com/user-attachments/assets/8a82f887-b7a1-4a6a-944a-fb677fd9605c" />
+![ルール編集・複製・削除](https://github.com/user-attachments/assets/8a82f887-b7a1-4a6a-944a-fb677fd9605c)
 
 ルールを追加したらその後、設定したルールを「編集」「複製」「削除」が可能です。
 
@@ -187,8 +179,7 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 
 ## ルール設定のON/OFF 機能
 
-<img width="435" height="113" alt="スクリーンショット 2026-06-23 212607" src="https://github.com/user-attachments/assets/ac4b039a-220e-4eda-ba2a-e50f306e3e22" />
-
+![ルールのON/OFF](https://github.com/user-attachments/assets/ac4b039a-220e-4eda-ba2a-e50f306e3e22)
 
 各ルールにはチェックマークが用意されています。このチェックマークがONになっているルールのみが適用ルールの対象となります。
 
@@ -201,11 +192,13 @@ Aviutl2の左上にある「表示」から「Voice Drop」を選択してくだ
 **１. 自動ドロップをさせる際は必ず再生バーの後ろはプロジェクトの最後ではなく、十分なスペースを確保した状態で行うようにしてください**
 
 ↓避けてほしいやり方（再生バーがプロジェクトの端にある）
-<img width="904" height="191" alt="image" src="https://github.com/user-attachments/assets/693df41e-804d-45f5-895d-ca5e11df4d2b" />
+
+![避けてほしいやり方](https://github.com/user-attachments/assets/693df41e-804d-45f5-895d-ca5e11df4d2b)
 
 
 ↓推奨するやり方（他のオブジェクトにより十分に後ろが確保されている）
-<img width="768" height="187" alt="image" src="https://github.com/user-attachments/assets/8031b8aa-7785-418d-a75b-f05c8d7ef7fe" />
+
+![推奨するやり方](https://github.com/user-attachments/assets/8031b8aa-7785-418d-a75b-f05c8d7ef7fe)
 
 理由としまして、自動ドロップをしようとした際、再生バーの位置がプロジェクトの端にあると既に設置されているオブジェクトと被ってしまい自動で設置してくれなくなるからです。
 
