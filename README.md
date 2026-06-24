@@ -9,6 +9,11 @@
 本プラグインは、GcmzDrops, PSDToolKitが入っていること前提で話が進みます。
 まだ導入を行っていない方がいましたら、先にそちらの導入から進めてください
 
+## Aviutl2カタログで見てる方向け
+
+これ以降のテキストに導入方法や使い方に関して書いてありますが、画像が表示されないので https://github.com/Fuji07-2525/voice-drop こちらのリンクを開いて見ていただけると画像付きでより詳細に理解できると思います。
+
+
 ## Voice Dropの導入方法
 
 [Releasesページ](https://github.com/Fuji07-2525/voice-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
