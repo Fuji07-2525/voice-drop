@@ -9,6 +9,12 @@
 本プラグインは、GcmzDrops, PSDToolKitが入っていること前提で話が進みます。
 まだ導入を行っていない方がいましたら、先にそちらの導入から進めてください
 
+## Voice Drop 解説動画
+
+解説動画も用意しておりますので、動画で設定方法が知りたい方はこちらを参考にしていただけますと幸いです
+
+https://www.nicovideo.jp/watch/sm46474483
+
 ## Voice Dropの導入方法
 
 [Releasesページ](https://github.com/Fuji07-2525/voice-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
