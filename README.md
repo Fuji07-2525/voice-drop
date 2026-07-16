@@ -13,7 +13,7 @@
 
 解説動画も用意しておりますので、動画で設定方法が知りたい方はこちらを参考にしていただけますと幸いです
 
-https://www.nicovideo.jp/watch/sm46474483
+[https://www.nicovideo.jp/watch/sm46474483](https://www.nicovideo.jp/watch/sm46474483)
 
 ## Voice Dropの導入方法
 
