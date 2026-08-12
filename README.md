@@ -19,10 +19,10 @@
 
 ## Voice Dropの導入方法
 
-[Releasesページ](https://github.com/Fuji07-2525/voice-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
-` ファイルをクリックしダウンロードして、aviutl2 → Plugin 配下に設置してください。これで導入完了です
-
 Aviutl2カタログを利用している場合、「インストール」ボタンを押して頂ければ導入完了です
+
+Aviutl2カタログを利用していない場合、[Releasesページ](https://github.com/Fuji07-2525/voice-drop/releases) にある、Latest が付いたバージョンの所から、`voice_drop.aux2
+` ファイルをクリックしダウンロードして、aviutl2 → Plugin 配下に設置してください。これで導入完了です
 
 ## Voice Dropの説明
 
