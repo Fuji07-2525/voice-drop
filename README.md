@@ -273,7 +273,7 @@ Aviutl2を開いたけど、Voice Dropを起動してなくてドロップ出来
 
 ファイル名というオプションが存在します。
 
-<img width="423" height="375" alt="image" src="https://github.com/user-attachments/assets/c58c87c2-d11b-4bc8-8274-37ecf978a5dd" />
+![ファイル名](https://github.com/user-attachments/assets/c58c87c2-d11b-4bc8-8274-37ecf978a5dd)
 
 こちらを「連番を付けてドロップ」を選択すると、ドロップ予定のファイルのファイル名の後ろに `_連番_vd` という文字付けた状態でドロップしてくれるようになります。
 
@@ -340,6 +340,11 @@ VOICEROID2を利用している場合、VOICEROID2ではキャラクター名を
 もしくはVOICEROID2から、ファイル保存時に必ずキャラクター名を入れるようにする。といったやり方をお勧めします。
 
 そのようにしていただけると後は、voice-drop側でルールを設定して頂ければ利用可能になります。
+
+
+## アップデート情報を動画でもご紹介
+
+リリースノートに動画付きで紹介しています： [https://github.com/Fuji07-2525/voice-drop/releases](https://github.com/Fuji07-2525/voice-drop/releases)
 
 
 ## 注意事項
